@@ -12,7 +12,7 @@ namespace pattern {
                         Console.Write("....");
                     }
                 }
-                Console.WriteLine("");
+                Console.WriteLine("bye");
             }
         }
     }
